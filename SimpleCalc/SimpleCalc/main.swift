@@ -9,15 +9,16 @@
 import Foundation
 
 public class Calculator {
+    
     public func calculate(_ arg: String) -> Int {
         return calculate( arg.split(separator: " ").map({ substr in String(substr) }) )
     }
     
     public func calculate(_ args: [String]) -> Int {
-        return Int(calculateFloat(_args: args))
+        return Int(calculateValues(_args: args))
     }
     
-    public func calculateFloat(_args: [String]) -> Float {
+    public func calculateValues(_args: [String]) -> Float {
         if _args.count < 2 {
             return 0
         }

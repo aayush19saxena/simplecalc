@@ -322,7 +322,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = B2QB4Y2BCX;
 				INFOPLIST_FILE = SimpleCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.newardassociates.demo.SimpleCalcTests;
@@ -336,7 +336,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = B2QB4Y2BCX;
 				INFOPLIST_FILE = SimpleCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.newardassociates.demo.SimpleCalcTests;
